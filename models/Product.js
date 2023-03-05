@@ -47,7 +47,7 @@ Product.init(
         },
       },
    },
-}),
+},
 
   
   {
@@ -57,6 +57,6 @@ Product.init(
     underscored: true,
     modelName: 'product',
   }
-
+);
 
 module.exports = Product;
